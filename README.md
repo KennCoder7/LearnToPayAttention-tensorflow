@@ -2,9 +2,7 @@
 Tensorflow (Keras) implementation of ICLR 2018 paper [Learn To Pay Attention](https://openreview.net/forum?id=HyzbhfWRW).  
 Including two attention method (dot product and parametrise) and visualization of attention map.  
 CIFAR-10:  
-![frog](https://github.com/KennCoder7/LearnToPayAttention-tensorflow/blob/main/frog.png)
-![bird](https://github.com/KennCoder7/LearnToPayAttention-tensorflow/blob/main/bird.png)
-![dog](https://github.com/KennCoder7/LearnToPayAttention-tensorflow/blob/main/dog.png)  
+![CAR](https://github.com/KennCoder7/LearnToPayAttention-tensorflow/blob/main/car.png)
 
 Due to the limited computational power, the VGG-type CNN net is condensed as follow:  
 ```
